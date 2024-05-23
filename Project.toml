@@ -1,0 +1,8 @@
+[deps]
+CUTEst = "1b53aba6-35b6-5f92-a507-53c67d53f819"
+LBFGSB = "5be7bae1-8223-5378-bac3-9e7378a2f6e6"
+Manifolds = "1cead3c2-87b3-11e9-0ccd-23c62b72b94e"
+Manopt = "0fc0a36d-df90-57f3-8f93-d78a9fc72bb5"
+NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
